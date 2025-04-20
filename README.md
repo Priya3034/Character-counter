@@ -32,7 +32,7 @@ Copy
 
 Edit
 
-git clone https://github.com/Priya3034/character-counter/
+git clone https://priya3034.github.io/Character-counter/
 
 Open the index.html file in your browser.
 
